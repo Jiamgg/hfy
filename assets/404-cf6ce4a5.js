@@ -1,1 +1,0 @@
-import{_ as e,o as _,c as o}from"./index-f4a9a0c5.js";const t={name:"404",components:{}},s={class:"not-found"};function n(c,a,p,r,d,f){return _(),o("div",s)}const l=e(t,[["render",n],["__scopeId","data-v-a6e8547b"]]);export{l as default};
